@@ -33,3 +33,21 @@ Apart from that there is settings functionlity has been applied in ehich user ca
 
 
 One more functionality has been tries to add their and user picture in thecircle avatar which include the picture of user name first initial alphabet that has been saved in the firebase.This is the functionality that i tried to add in my project.
+
+The packages that i have been using here 
+  cupertino_icons: ^1.0.2
+  firebase_auth: ^4.16.0
+  firebase_core: ^2.24.2
+  firebase_database: ^10.4.0
+  get: ^4.6.6
+  cloud_firestore: ^4.15.0
+  firebase_storage: ^11.6.1
+  image_cropper: ^5.0.1
+  image_picker: ^1.0.7
+  flutter_launcher_icons: ^0.13.1
+  google_sign_in: ^6.2.1
+  the_apple_sign_in: ^1.1.1
+
+  rounded_loading_button: ^2.1.0
+  font_awesome_icon_class: ^0.0.6
+
