@@ -24,7 +24,8 @@ class _ChooseProductState extends State<ChooseProduct> {
         actions: [
           TextButton(
             onPressed: () {
-              // Skip button action (e.g., navigate to another page)
+                Navigator.push(context, MaterialPageRoute(builder: (context)=>LoginPage()));
+
             },
             child: Text(
               'Skip',
